@@ -1,0 +1,9 @@
+{
+  "name":"node-threads-and-promises",
+  "private":true,
+  "dependencies":{
+    "webworker-threads":"",
+    "q":"",
+    "nodeunit":""
+  }
+}
